@@ -531,27 +531,25 @@ This project demonstrates practical experience with:
 
 # 🖥️ Dashboard Preview
 
-Add your dashboard screenshots here after uploading them to GitHub.
-
 ### Data Model
 
 ![Data Model](Screenshots/Data_Model.png)
 
 ### Homepage
 
-![Overview Dashboard](Screenshots/Homepage.png)
+![Home Page](Screenshots/Homepage.png)
+
+### Overview
+
+![Overview](Screenshots/Overview_Page.png)
 
 ### Manufacturer Analysis
 
-```text
 ![Manufacturer Analysis](Screenshots/Manufacturer_Analysis.png)
-```
 
 ### State Analysis
 
-```text
 ![State Analysis](Screenshots/State_Analysis.png)
-```
 
 ---
 
