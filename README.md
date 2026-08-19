@@ -49,7 +49,7 @@ The key business questions are:
 
 ### Data Source
 
-**Vahan Sewa**
+**[Vahan Sewa](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml)**
 
 The dataset contains approximately **40K+ records** related to vehicle registrations/sales and includes information that enables analysis across:
 
@@ -100,13 +100,17 @@ Insights & Recommendations
 
 ---
 
-# 🧹 Data Preparation
+## 🧹 Data Preparation & Transformation
 
-The raw dataset was prepared before analysis using **Excel and Power Query**.
+The **40K+ Vahan Sewa records** were cleaned and transformed using **Excel and Power Query** before analysis.
 
-The preparation process included transforming the source data into a structure suitable for analysis and reporting.
+* Removed duplicates and handled missing values to improve data quality.
+* Corrected data inconsistencies and standardized data types/formats.
+* Structured state, manufacturer, vehicle-category, and time fields for analysis.
+* Built a **Power BI data model with a Date dimension** to support fiscal year, quarterly, and monthly analysis.
 
-The cleaned data was then loaded into Power BI for modeling and analysis.
+**Workflow:** `Raw Data → Cleaning → Power Query → Data Modeling → DAX → Dashboard`
+
 
 ---
 
@@ -237,14 +241,6 @@ The analysis includes:
 This helps identify:
 
 > **Which states represent high-growth or high-adoption EV markets?**
-
----
-
-## 🗂️ 5. Dataset & Modeling
-
-This section documents the underlying dataset and Power BI data model used for the analysis.
-
-It provides transparency into the structure of the analytical solution.
 
 ---
 
@@ -565,21 +561,13 @@ The resulting insights provide a structured view of India's EV landscape and hig
 
 ---
 
-# ⚠️ Disclaimer
-
-This project is an **analytical/portfolio project based on the provided Vahan Sewa dataset and the AtliQ Motors business case**.
-
-The findings and projections are intended for analytical demonstration and should not be interpreted as actual recommendations formally delivered to AtliQ Motors or as guaranteed future market outcomes.
-
----
-
 # 👨‍💻 Author
 
 **Rajvardhan Singh Parmar**
 
 Data Analyst | Power BI | SQL | Excel | Python
 
-[LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-parmar/) • [GitHub](https://github.com/)
+• [LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-parmar/) • [GitHub](https://github.com/RajvardhanSinghParmar) • [Portfolio](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
 ---
 
