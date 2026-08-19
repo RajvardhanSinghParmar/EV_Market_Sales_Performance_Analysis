@@ -533,11 +533,13 @@ This project demonstrates practical experience with:
 
 Add your dashboard screenshots here after uploading them to GitHub.
 
-### Overview
+### Data Model
 
-```text
-![Overview Dashboard](Screenshots/Overview.png)
-```
+![Data Model](Screenshots/Data_Model.png)
+
+### Homepage
+
+![Overview Dashboard](Screenshots/Homepage.png)
 
 ### Manufacturer Analysis
 
@@ -549,12 +551,6 @@ Add your dashboard screenshots here after uploading them to GitHub.
 
 ```text
 ![State Analysis](Screenshots/State_Analysis.png)
-```
-
-### Data Model
-
-```text
-![Data Model](Screenshots/Data_Model.png)
 ```
 
 ---
