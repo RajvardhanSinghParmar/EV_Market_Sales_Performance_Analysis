@@ -576,7 +576,3 @@ Data Analyst | Power BI | SQL | Excel | Python
 • [LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-parmar/) • [GitHub](https://github.com/RajvardhanSinghParmar) • [Portfolio](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
 ---
-
-## ⭐ If you found this project useful
-
-Feel free to explore the dashboard, review the data model and DAX calculations, and connect with me on LinkedIn.
