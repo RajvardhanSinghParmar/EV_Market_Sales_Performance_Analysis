@@ -26,6 +26,12 @@ To address these questions, I analyzed **40K+ records from Vahan Sewa** and deve
 
 ---
 
+## 🔗 Live Dashboard
+
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdlOTBjMmItNzhjYS00OTAwLWFkNzktZDgxNDA4ZDBkMDQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=5f5e99e408edc68a96cd)**
+
+---
+
 # 🎯 Business Problem
 
 AtliQ Motors wants to enter the Indian EV market but lacks sufficient understanding of the existing market landscape.
