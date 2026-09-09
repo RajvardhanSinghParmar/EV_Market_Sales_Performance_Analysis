@@ -187,7 +187,7 @@ The Power BI solution contains multiple analytical views.
 
 Provides navigation between the different sections of the dashboard.
 
-![EV_Market_Sales_Performance_Analysis](Screenshots/Homepage.png)
+![EV_Market_Sales_Performance_Analysis](Dashboard_Screenshots/Homepage.png)
 
 ---
 
@@ -209,7 +209,7 @@ The page also provides analysis of:
 * Quarterly trends
 * 2-wheeler vs 4-wheeler performance
 
-![EV_Market_Sales_Performance_Analysis](Screenshots/Overview_Page.png)
+![EV_Market_Sales_Performance_Analysis](Dashboard_Screenshots/Overview_Page.png)
 
 ---
 
@@ -228,7 +228,7 @@ The analysis covers:
 * 4-wheeler manufacturers
 * Quarterly manufacturer performance
 
-![EV_Market_Sales_Performance_Analysis](Screenshots/Manufacturer_Analysis.png)
+![EV_Market_Sales_Performance_Analysis](Dashboard_Screenshots/Manufacturer_Analysis.png)
 
 This helps answer:
 
@@ -250,7 +250,7 @@ The analysis includes:
 * 2-wheeler penetration
 * 4-wheeler penetration
 
-![EV_Market_Sales_Performance_Analysis](Screenshots/State_Analysis.png)
+![EV_Market_Sales_Performance_Analysis](Dashboard_Screenshots/State_Analysis.png)
 
 This helps identify:
 
@@ -536,30 +536,6 @@ This project demonstrates practical experience with:
 * Power Query
 * Data Transformation
 * Data Preparation
-
----
-
-# 🖥️ Dashboard Preview
-
-### Data Model
-
-![Data Model](Screenshots/Data_Model.png)
-
-### Homepage
-
-![Home Page](Screenshots/Homepage.png)
-
-### Overview
-
-![Overview](Screenshots/Overview_Page.png)
-
-### Manufacturer Analysis
-
-![Manufacturer Analysis](Screenshots/Manufacturer_Analysis.png)
-
-### State Analysis
-
-![State Analysis](Screenshots/State_Analysis.png)
 
 ---
 
