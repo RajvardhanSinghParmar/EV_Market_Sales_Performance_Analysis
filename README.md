@@ -179,13 +179,15 @@ Used to estimate potential EV sales based on the growth trends observed in the d
 
 ---
 
-# 📊 Dashboard Structure
+# 📊 Dashboard Walkthrough
 
 The Power BI solution contains multiple analytical views.
 
 ## 🏠 1. Home / Navigation
 
 Provides navigation between the different sections of the dashboard.
+
+![EV_Market_Sales_Performance_Analysis](Screenshots/Homepage.png)
 
 ---
 
@@ -207,6 +209,8 @@ The page also provides analysis of:
 * Quarterly trends
 * 2-wheeler vs 4-wheeler performance
 
+![EV_Market_Sales_Performance_Analysis](Screenshots/Overview_Page.png)
+
 ---
 
 ## 🏭 3. Manufacturer Analysis
@@ -223,6 +227,8 @@ The analysis covers:
 * 2-wheeler manufacturers
 * 4-wheeler manufacturers
 * Quarterly manufacturer performance
+
+![EV_Market_Sales_Performance_Analysis](Screenshots/Manufacturer_Analysis.png)
 
 This helps answer:
 
@@ -243,6 +249,8 @@ The analysis includes:
 * Monthly EV sales trends
 * 2-wheeler penetration
 * 4-wheeler penetration
+
+![EV_Market_Sales_Performance_Analysis](Screenshots/State_Analysis.png)
 
 This helps identify:
 
