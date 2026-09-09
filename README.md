@@ -258,6 +258,12 @@ This helps identify:
 
 ---
 
+## 📐 5. Data Model
+
+![EV_Market_Sales_Performance_Analysis](Dashboard_Screenshots/Data_Model.png)
+
+---
+
 # 🔍 Key Findings
 
 ## 🏆 1. Leading EV Manufacturer
